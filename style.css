@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color:   Whitesmoke;
+    height: 7vh;
+    width: 58vh;
+}
+img{
+    border: 2px solid #fff;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+}
+.link{
+    float: right;
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
+.div1{
+    background-image: url(p.jpg);
+    height:50vh;
+}
